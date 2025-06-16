@@ -5,5 +5,5 @@
 
 <br/>
 
-### 🎈 실행 화면
+### 🖥 실행 화면
 <img src="/img/coordinates/coordinates.gif" alt="video" />
